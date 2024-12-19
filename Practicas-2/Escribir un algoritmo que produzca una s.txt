@@ -1,0 +1,24 @@
+Escribir un algoritmo que produzca una secuencia de salida que contenga una oración formada por
+las palabras en posición par de cada oración de una secuencia texto de entrada, que además comienzan
+con la letra 'M'.
+
+Accion 2.1.18 Es
+Ambiente
+  Sec: Secuecia de enteros;
+  Sec2: Secuecia de enteros;
+  v: entero
+  Primer_c:entero
+  cont_c
+
+Proceso
+  ARR(Sec)
+  CREAR(Sec2)
+  
+  MIENTRAS NFDS(Sec) HACER
+    cont_c := 0
+    MIENTRAS (V <> ".") ^ (V <> "") HACER
+      AVZ(Sec,v)
+    FinMientras
+    
+          
+
